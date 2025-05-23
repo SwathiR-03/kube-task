@@ -30,7 +30,7 @@ spec:
 
         - name: kubepro
 
-          image: 0309261234/villakube
+          image: 0309261234/villatask
 
           ports:
 
